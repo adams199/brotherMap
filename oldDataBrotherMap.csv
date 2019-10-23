@@ -1,62 +1,61 @@
-Timestamp,"Zip Code (if abroad, enter city, country)",Name
-5/15/2019 13:52:37,10002,Marcus Glick
-5/15/2019 13:52:38,52404,Sam Hicks
-5/15/2019 13:53:15,"Nairobi, Kenya ",Arshee Krishnan 
-5/15/2019 13:53:31,55343,Joey Sawyer
-5/15/2019 13:55:28,77021,Anthony Giazzon
-5/15/2019 13:59:00,46062,Austin Miller
-5/15/2019 14:00:03,80205,Jake Armuth
-5/15/2019 14:01:08,63105,Hugo Arribas
-5/15/2019 14:01:39,46013,Matthew Candiano
-5/15/2019 14:10:44,46204,Sam Eschker
-5/15/2019 14:11:44,46552,Dylan
-5/15/2019 14:14:08,60467,Eric Cocanig
-5/15/2019 14:25:23,"Seoul, South Korea",Evan Jouzapaitis
-5/15/2019 14:36:42,97224,Matthew Valet
-5/15/2019 15:04:47,47906,Caden Cardell
-5/15/2019 15:08:05,77027,Chadwick Moss
-5/15/2019 15:13:50,63021,Eric Abbenhaus
-5/15/2019 15:36:59,85028,Kyle Higgins
-5/15/2019 15:39:46,46237,Devin Boehm
-5/15/2019 15:51:46,63101,Brandon Ko
-5/15/2019 15:56:44,60647,Kyle Massa
-5/15/2019 16:20:56,40202,Ben Stryker
-5/15/2019 16:49:06,07974,Andrew Peritore
-5/15/2019 17:25:11,46201,Trevor DeWitt
-5/15/2019 17:42:32,61874,Al Hassani
-5/15/2019 18:38:47,92122,Sharif
-5/15/2019 20:12:34,14850,Daniel Sweeney
-5/15/2019 20:19:35,46032,Tim Williams
-5/15/2019 20:21:08,53202,Greg Dieter 
-5/15/2019 20:42:19,91381,Kyle Pobanz
-5/15/2019 20:55:32,46802,Erik Subler
-5/15/2019 22:12:18,60004,Danny Voltz
-5/15/2019 22:21:08,"Naha, Japan",Saumz
-5/15/2019 23:12:07,47906,Jeremy Wasowicz 
-5/16/2019 19:16:24,04019,Josh Dadson
-5/17/2019 1:33:35,52245,Nyema Harmon (Nemo)
-5/17/2019 3:33:11,37922,Tanu Das
-5/20/2019 2:37:39,89128,Chris Choi
-5/20/2019 3:04:36,83687,David LaVanne
-5/30/2019 17:42:53,43017,Kento Kimura
-5/30/2019 18:23:19,46033,Aleks Hudson 
-5/30/2019 18:26:45,46168,Max Tetrick
-5/30/2019 20:02:13,53202,David Snyder
-5/30/2019 20:17:47,11714,Sam Perkowsky
-5/30/2019 22:04:45,24060,Collin Sweeney
-5/31/2019 0:52:18,43201,Ben Stubbs
-5/31/2019 1:33:04,60423,Andrew Kopec
-5/31/2019 11:30:41,07030,Gitansh Bhargava
-5/31/2019 14:38:31,53726,Ethan Hughbanks
-5/31/2019 17:19:37,16001,Drew Kukla
-6/1/2019 0:49:00,11101,Nick Larew
-6/1/2019 0:49:02,11101,Nick Larew
-6/1/2019 1:12:19,46260,Joseph Schingel
-6/1/2019 23:03:23,46037,Matthew Meyers
-6/10/2019 15:00:19,78209,Keith Stroup
-6/13/2019 22:27:44,60615,Big Jon Lehmann
-6/23/2019 23:50:51,46818,Nick Bauer
-6/27/2019 21:49:35,46037,Brandon Cowell
-6/28/2019 2:54:43,20009,Darrickloftus@gmail.com 
-6/29/2019 0:42:57,80210,Hieu Pham
-7/14/2019 2:10:54,57108,Trevor 
+Marcus Glick,10002
+Sam Hicks,52404
+Arshee Krishnan ,"Nairobi, Kenya "
+Joey Sawyer,55343
+Anthony Giazzon,77021
+Austin Miller,46062
+Jake Armuth,80205
+Hugo Arribas,63105
+Matthew Candiano,46013
+Sam Eschker,46204
+Dylan,46552
+Eric Cocanig,60467
+Evan Jouzapaitis,"Seoul, South Korea"
+Matthew Valet,97224
+Caden Cardell,47906
+Chadwick Moss,77027
+Eric Abbenhaus,63021
+Kyle Higgins,85028
+Devin Boehm,46237
+Brandon Ko,63101
+Kyle Massa,60647
+Ben Stryker,40202
+Andrew Peritore,7974
+Trevor DeWitt,46201
+Al Hassani,61874
+Sharif,92122
+Daniel Sweeney,14850
+Tim Williams,46032
+Greg Dieter ,53202
+Kyle Pobanz,91381
+Erik Subler,46802
+Danny Voltz,60004
+Saumz,"Naha, Japan"
+Jeremy Wasowicz ,47906
+Josh Dadson,4019
+Nyema Harmon (Nemo),52245
+Tanu Das,37922
+Chris Choi,89128
+David LaVanne,83687
+Kento Kimura,43017
+Aleks Hudson ,46033
+Max Tetrick,46168
+David Snyder,53202
+Sam Perkowsky,11714
+Collin Sweeney,24060
+Ben Stubbs,43201
+Andrew Kopec,60423
+Gitansh Bhargava,7030
+Ethan Hughbanks,53726
+Drew Kukla,16001
+Nick Larew,11101
+Nick Larew,11101
+Joseph Schingel,46260
+Matthew Meyers,46037
+Keith Stroup,78209
+Big Jon Lehmann,60615
+Nick Bauer,46818
+Brandon Cowell,46037
+Darrickloftus@gmail.com ,20009
+Hieu Pham,80210
+Trevor ,57108
