@@ -10,7 +10,6 @@
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.158038,39.772692]},"properties":{"title":"Sam Eschker"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.455494,41.701172]},"properties":{"title":"Dylan"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.889096,41.601621]},"properties":{"title":"Eric Cocanig"}},
-	{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.109916,35.532577]},"properties":{"title":"Evan Jouzapaitis"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.8014,45.409448]},"properties":{"title":"Matthew Valet"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.928132,40.467303]},"properties":{"title":"Caden Cardell"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.446409,29.740079]},"properties":{"title":"Chadwick Moss"}},
@@ -30,7 +29,6 @@
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.57372,34.39048]},"properties":{"title":"Kyle Pobanz"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.15842,41.065397]},"properties":{"title":"Erik Subler"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.979542,42.11278]},"properties":{"title":"Danny Voltz"}},
-	{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.305982,38.239215]},"properties":{"title":"Saumz"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.928132,40.467303]},"properties":{"title":"Jeremy Wasowicz "}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.10783,43.69619]},"properties":{"title":"Josh Dadson"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.518388,41.668592]},"properties":{"title":"Nyema Harmon (Nemo)"}},
@@ -58,5 +56,6 @@
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.947942,39.95987]},"properties":{"title":"Brandon Cowell"}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.039798,38.919261]},"properties":{"title":"Darrickloftus@gmail.com "}},
 	{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.962315,39.676626]},"properties":{"title":"Hieu Pham"}},
-	{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.704984,43.479526]},"properties":{"title":"Trevor "}}
+	{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.704984,43.479526]},"properties":{"title":"Trevor "}},
+	{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.928132,40.467303]},"properties":{"title":"Jeremy Wasowicz"}}
 ]}
