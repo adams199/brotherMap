@@ -6,6 +6,7 @@ import requests
 
 URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSD3MRGlkbpxYV3agtpCUShQTCDNHqMHm3-' \
       'fw5AEJXcOzm2uNBBMzeVx1IUNeco2NjCAq3vLoC9H2CD/pub?output=csv'
+
 r = requests.get(URL)
 soup = bs4.BeautifulSoup(r.content, 'html5lib')
 lines = soup.prettify().split('\n')
@@ -19,10 +20,11 @@ geo_pattern = re.compile("'lat': -*[0-9]+.[0-9]+, 'lng': -*[0-9]+.[0-9]+")
 num_pattern = re.compile("-*[0-9]+.[0-9]+")
 
 for brother in brothers:
+    print(brother)
     i += 1
     try:
         data = brother.split(',')
-        zip_code = data[1].strip("'")
+        zip_code = int(data[1].strip("'"))
         name = data[2].strip("'")
         try:
             location = client.geocode(zip_code)
@@ -40,11 +42,12 @@ for brother in brothers:
             print(str(i) + " wrote geoFile line")
         except GeocodioDataError:
             print('Could not process ' + name + '\nPlease check zip code: ' + zip_code + '\n')
-    except IndexError:
-        print("Error in some data index (possibly commas in zip code or name)")
+    except (IndexError, ValueError):
+        print("Error in some data index, code not read Zip")
 
 geoFile.write('\n]}')
 geoFile.close()
+print("File closed, done...")
 
 # old way
 # import csv
